@@ -5,6 +5,7 @@
 
     <name> NITIN UPADHYAYA-- <role> -- <twitter>
     HSBC.co.in
+    devops engineer
 
 # THANKS
 
@@ -17,5 +18,5 @@
 
 	angular, AJAX
 	shell scripting
-
+	docker, java programming
 
