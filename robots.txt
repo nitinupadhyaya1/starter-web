@@ -1,3 +1,5 @@
 # robotstxt.org/
+this is a new file in .gitignore
+agent vinod
 
 User-agent: *
